@@ -1,0 +1,41 @@
+.text {
+    text-align: center;
+    font-family: 'Kalam', cursive;
+    color: #E5D9B6;
+    background-color: #DC0000;
+}
+
+.text2 {
+    color: #FFDB89;
+    font-size: 1.5rem;
+}
+
+.images {
+    height: 100px;
+    width: 200px;
+}
+
+.container {
+    text-align: center;
+}
+
+
+/* unvisited link */
+a:link {
+    color: rgb(165, 242, 12);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(165, 242, 12);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(9, 180, 171);
+  }
